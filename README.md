@@ -12,7 +12,7 @@
 
 **Alexandro Wrandon Medina Mauricio**
 
-**Samantha Lezma**
+**Samantha Alejandra Lezma Chuchón**
 
 
 *******Caso 5***********
