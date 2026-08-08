@@ -22,3 +22,6 @@ Open Data: 	Portales de Transparencia Económica del Estado (Consulta Amigable, 
 El Flujo en n8n: 	n8n se conecta a las APIs o web scrapers de los portales de contratación. Extrae los contratos adjudicados, montos y las empresas ganadoras. La IA analiza los contratos (procesando texto de los PDFs licitados mediante IA Multimodal) buscando patrones inusuales o cláusulas sospechosas.
 Natural Language Query (NLQ):	 Un ciudadano o periodista escribe: «¿Cuánto presupuesto ha ejecutado la municipalidad de mi distrito en obras viales este mes y qué empresas ganaron las licitaciones más altas?». La IA interpreta la consulta en lenguaje natural, n8n extrae los datos exactos del portal público y los presenta estructurados en un microfrontend.
 IA Ops / MLOps:	 Enfoque crítico en la auditoría de costos de tokens (los PDFs de licitaciones son gigantescos, por lo que requerirán técnicas de RAG o fragmentación de texto) y observabilidad de la tasa de alucinación para evitar acusaciones falsas del bot.
+### 4. Entregables de QA
+- **Colección de Postman:** Exportación de peticiones para pruebas automatizadas de regresión (`FinEduBot_QA_Collection.json`).
+- **Reporte de BUGS y Cobertura:** Documentación de incidencias detectadas en la integración Backend-Frontend.
