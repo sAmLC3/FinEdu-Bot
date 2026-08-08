@@ -8,27 +8,24 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
+    "C:\\Users\\Alexandro\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USUARIO\\Downloads\\Caso5\\FinEdu-Bot\\FinEduBot.Frontend\\FinEduBot.Frontend.csproj",
+      "projectUniqueName": "D:\\U\\2026-II\\Taller de proyectos\\FinEdu-Bot\\FinEduBot.Frontend\\FinEduBot.Frontend.csproj",
       "projectName": "FinEduBot.Frontend",
-      "projectPath": "C:\\Users\\USUARIO\\Downloads\\Caso5\\FinEdu-Bot\\FinEduBot.Frontend\\FinEduBot.Frontend.csproj",
-      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USUARIO\\Downloads\\Caso5\\FinEdu-Bot\\FinEduBot.Frontend\\obj\\",
+      "projectPath": "D:\\U\\2026-II\\Taller de proyectos\\FinEdu-Bot\\FinEduBot.Frontend\\FinEduBot.Frontend.csproj",
+      "packagesPath": "C:\\Users\\Alexandro\\.nuget\\packages\\",
+      "outputPath": "D:\\U\\2026-II\\Taller de proyectos\\FinEdu-Bot\\FinEduBot.Frontend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Alexandro\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -71,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

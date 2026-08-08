@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FinEduBot.Frontend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f83172906a575abd0775f5a7a300bc9956ef6b72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb58717ef5776fe9c22509b116c5e7cdec1c48bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("FinEduBot.Frontend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FinEduBot.Frontend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
