@@ -24,3 +24,6 @@ Natural Language Query (NLQ):	 Un ciudadano o periodista escribe: «¿Cuánto pr
 IA Ops / MLOps:	 Enfoque crítico en la auditoría de costos de tokens (los PDFs de licitaciones son gigantescos, por lo que requerirán técnicas de RAG o fragmentación de texto) y observabilidad de la tasa de alucinación para evitar acusaciones falsas del bot.
 
 NLP: The rise of Natural Language Processing (NLP) combined with traditional Structured Query Language (SQL) has given rise to an exciting new technology known as Natural Language to SQL, or NL2SQL, which translates questions phrased in everyday human language into structured SQL queries.
+
+### Estado del Proyecto
+**Última actualización:** Configuración e integración inicial de documentación en `main`.
