@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9jMIBNme6O4=",
+  "dgSpecHash": "sAdwbzKEZQU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\USUARIO\\Downloads\\Caso5\\FinEdu-Bot\\FinEduBot.Frontend\\FinEduBot.Frontend.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/runner/work/FinEdu-Bot/FinEdu-Bot/FinEduBot.Frontend/FinEduBot.Frontend.csproj",
+  "expectedPackageFiles": [
+    "/tmp/codeql-scratch-8820da825b3f7743/dbs/csharp/working/packages/microsoft.netcore.app.ref/9.0.18/microsoft.netcore.app.ref.9.0.18.nupkg.sha512",
+    "/tmp/codeql-scratch-8820da825b3f7743/dbs/csharp/working/packages/microsoft.aspnetcore.app.ref/9.0.18/microsoft.aspnetcore.app.ref.9.0.18.nupkg.sha512",
+    "/tmp/codeql-scratch-8820da825b3f7743/dbs/csharp/working/packages/microsoft.netcore.app.host.linux-x64/9.0.18/microsoft.netcore.app.host.linux-x64.9.0.18.nupkg.sha512"
+  ],
   "logs": []
 }
